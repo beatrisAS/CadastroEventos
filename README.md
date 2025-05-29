@@ -10,8 +10,11 @@
 Aplicativo para cadastro e visualização de eventos, com preenchimento de informações como nome, descrição, data de início e término.
 
 ✔ **Interface intuitiva com design responsivo**
+
 ✔ **Cadastro de eventos com validação de datas**
+
 ✔ **Navegação entre telas: cadastro e resumo**
+
 ✔ **Tema claro/escuro com estilos personalizados**
 
 ---
@@ -29,9 +32,13 @@ Sistema de cadastro de eventos com as seguintes funcionalidades:
 ## ✨ Recursos Implementados
 
 ✅ **Entrada de dados com Entry, Editor e DatePicker**
+
 ✅ **Validação básica e navegação entre páginas**
+
 ✅ **Layout responsivo para dispositivos móveis e desktop**
+
 ✅ **Tema escuro e claro com cores definidas em ResourceDictionary**
+
 ✅ **Navegação com NavigationPage**
 
 ---
